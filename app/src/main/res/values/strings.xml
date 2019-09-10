@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExercicioAula6</string>
+    <string name="lblMain">"Main Activity"</string>
+    <string name="lblNome">"Nome:"</string>
+    <string name="lblEmail">"Email:"</string>
+    <string name="btnDadosAdicionais">"Dados Adicionais"</string>
+    <string name="lblAdicionalActivity">"Adicional Activity"</string>
+    <string name="lblEndereco">"Endereço:"</string>
+    <string name="lblTelefone">"Telefone:"</string>
+    <string name="lblDadosComplementares">"Dados Complementares"</string>
+    <string name="txtEndereco">""</string>
+    <string name="txtTelefone">""</string>
+    <string name="txtNome">""</string>
+    <string name="txtEmail">""</string>
+    <string name="lblDadosBasicos">"Dados Básicos"</string>
+</resources>
